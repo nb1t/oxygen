@@ -5,14 +5,11 @@
 ### Template based project generation command line utility.
 
 [![Source Code][badge-source]][source]
-[![Latest Version][badge-release]][packagist]
 [![Software License][badge-license]][license]
 [![PHP Version][badge-php]][php]
 [![Build Status][badge-build]][build]
-[![Coverage Status][badge-coverage]][coverage]
 
 [badge-source]: http://img.shields.io/badge/source-nb1t/oxygen-blue.svg?style=flat-square
-[badge-release]: https://img.shields.io/packagist/v/nb1t/oxygen.svg?style=flat-square&label=release
 [badge-license]: https://img.shields.io/packagist/l/nb1t/oxygen.svg?style=flat-square
 [badge-php]: https://img.shields.io/packagist/php-v/nb1t/oxygen.svg?style=flat-square
 [badge-build]: https://img.shields.io/travis/nb1t/oxygen/master.svg?style=flat-square
@@ -20,6 +17,7 @@
 [source]: https://github.com/nb1t/oxygen
 [license]: https://github.com/nb1t/oxygen/blob/master/LICENSE
 [php]: https://php.net
+[build]: https://github.com/nb1t/oxygen/releases/v1.zip
 
 ---
 
@@ -39,9 +37,11 @@ powershell.exe -command "Set-ExecutionPolicy Bypass -Scope Process -Force; [Syst
 
 Or download the prebuild binarys and installers for windows hosts.
 
-[binarys]: https://github.com/nb1t/oxygen/archive/binarys.zip
+[Unix binarys](https://github.com/nb1t/oxygen/releases/binarys-unix.zip)
 
-[installer]: https://github.com/nb1t/oxygen/archive/installer.msi
+[Windows binarys](https://github.com/nb1t/oxygen/releases/binarys-win.zip)
+
+[Windows installer](https://github.com/nb1t/oxygen/archive/installer.zip)
 
 ## Usage
 
