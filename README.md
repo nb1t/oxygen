@@ -1,8 +1,8 @@
 # nb1t/oxygen
 
-## Template based project generation command line utility.
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+### Template based project generation command line utility.
 
 [![Source Code][badge-source]][source]
 [![Latest Version][badge-release]][packagist]
@@ -16,18 +16,12 @@
 [badge-license]: https://img.shields.io/packagist/l/nb1t/oxygen.svg?style=flat-square
 [badge-php]: https://img.shields.io/packagist/php-v/nb1t/oxygen.svg?style=flat-square
 [badge-build]: https://img.shields.io/travis/nb1t/oxygen/master.svg?style=flat-square
-[badge-coverage]: https://img.shields.io/coveralls/github/nb1t/oxygen/master.svg?style=flat-square
 
 [source]: https://github.com/nb1t/oxygen
-[packagist]: https://packagist.org/packages/nb1t/oxygen
 [license]: https://github.com/nb1t/oxygen/blob/master/LICENSE
 [php]: https://php.net
-[build]: https://travis-ci.org/nb1t/oxygen
-[coverage]: https://coveralls.io/r/nb1t/oxygen?branch=master
-[downloads]: https://packagist.org/packages/nb1t/oxygen
 
 ---
-</br>
 
 ## Basic installation
 
@@ -45,9 +39,9 @@ powershell.exe -command "Set-ExecutionPolicy Bypass -Scope Process -Force; [Syst
 
 Or download the prebuild binarys and installers for windows hosts.
 
-<a class="github-button" href="https://github.com/nb1t/oxygen/archive/master.zip" data-icon="octicon-download" data-size="large" aria-label="Download the prebuild binarys from GitHub">Download (Binarys)</a>
+[binarys]: https://github.com/nb1t/oxygen/archive/binarys.zip
 
-<a class="github-button" href="https://github.com/nb1t/oxygen/archive/installer.msi" data-icon="octicon-download" data-size="large" aria-label="Download the installer from GitHub">Download (Installer)</a>
+[installer]: https://github.com/nb1t/oxygen/archive/installer.msi
 
 ## Usage
 
@@ -58,7 +52,6 @@ oxygen -h
 Please review the docs (`docs/*`) and `USAGE.md`, for a more detailed documentation about commands and templates.
 
 ---
-</br>
 
 ## Project Structure
 
